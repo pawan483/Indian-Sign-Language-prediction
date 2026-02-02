@@ -26,8 +26,8 @@ The model is deployed with a **browser-based interface using Gradio**.
 ---
 
 ## 📁 Project Structure
-├── app.py
-├── isl_model.h5
+├── app(1).py
+├── ISL_MobileNetV2_97_5.h5
 ├── requirements.txt
 └── README.md
 ## ▶️ How to Run
